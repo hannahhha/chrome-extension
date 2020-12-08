@@ -1,0 +1,360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 59.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"set java",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"set she",
+				"Set Syntax: Batch File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript (Rails)"
+			],
+			[
+				"set",
+				"Set Syntax: HTML"
+			],
+			[
+				"java",
+				"Set Syntax: Java Properties"
+			],
+			[
+				"se",
+				"Set Syntax: SQL"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"JsonTree: Show Tree"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"j son",
+				"Set Syntax: JSON"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/louis/Desktop/since2017.txt",
+		"/Users/louis/Desktop/计划任务",
+		"/Users/louis/Desktop/计划任务.txt",
+		"/Users/louis/Documents/java/HelloWorld.java",
+		"/Users/louis/.condarc",
+		"/Users/louis/Documents/java/helloWorld.java",
+		"/Users/louis/Documents/JAVA/public class HelloWorld{",
+		"/Users/louis/.condarcc",
+		"/Users/louis/Library/Application Support/ShadowsocksX-NG/privoxy.config",
+		"/Users/louis/Documents/selfSpace/SZU/maths-gsp-html/README.md",
+		"/Users/louis/anaconda3/conda-meta/bitarray-1.4.2-py36haf1e3a3_0.json",
+		"/Users/louis/Desktop/untitled.html",
+		"/Users/louis/.config/mpv/mpv.conf",
+		"/Users/louis/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/77f25f6d8e2016a0f3361c3550282fd1/Account/Beta.db",
+		"/Users/louis/.zshrc",
+		"/Users/louis/.jupyter/jupyter_notebook_config.py",
+		"/Users/louis/.profile",
+		"/etc/profile",
+		"/etc/bashrc",
+		"/Users/louis/.bash_profile",
+		"/Users/louis/Documents/git/handson-ml2/environment.yml",
+		"/Users/louis/Documents/selfSpace/SZU/maths-gsp/start.sh",
+		"/Users/louis/octave/squareThisNumber.m",
+		"/Users/louis/octave/squareAndCubeThisNumber.m",
+		"/Users/louis/octave/costFunctionJ.m",
+		"/Users/louis/octave/costFunction.m",
+		"/Users/louis/Desktop/hhhhnnnnnnnhhhhh哈哈哈哈哈哈还好还好jjjjjjjjjj季姬击鸡记将佳节跟     ",
+		"/Users/louis/Desktop/statistics.md",
+		"/Users/louis/.config/mpv/scripts/autoload.lua",
+		"/Users/louis/Desktop/卡米.txt",
+		"/Users/louis/Desktop/卡米",
+		"/Users/louis/Documents/git/jetbrains/README.md",
+		"/Users/louis/Desktop/Untitled1.md",
+		"/Users/louis/Documents/svn/ZBMP/passport/2_src/1_trunk/permission-management copy/permission-web/src/main/webapp/WEB-INF/static/js/pwd.js",
+		"/Users/louis/Desktop/1-kubernetes-deployment-statefulset-daemonset-metrics_rev1.json",
+		"/Users/louis/Documents/svn/ZBMP/metadata/2_src/1_trunk/metadata-micro-service/metadata-hive-kerberos/pom.xml",
+		"/Users/louis/Documents/git/7568.github.io/_posts/2018-08/2018-08-28-install-nginx-1.8.0.md",
+		"/Applications/SQuirreLSQL.app/Contents/MacOS/squirrel-sql.sh",
+		"/Users/louis/Documents/svn/ZBMP/metadata/1_doc/3_安装部署文档/监控过部署/监控部署.md",
+		"/Users/louis/Applications/nexus-2.14.8-01-bundle/nexus-2.14.8-01/conf/nexus.properties",
+		"/Users/louis/Documents/ProgramFile/apache-maven-3.5.2/conf/settings.xml",
+		"/Users/louis/Desktop/export.json",
+		"/Users/louis/Documents/介词搭配.md",
+		"/Applications/mpv.app/Contents/Resources/mpv.conf",
+		"/Users/louis/Applications/redis/redis.conf",
+		"/Applications/IntelliJ IDEA.app/Contents/bin/idea.properties",
+		"/Users/louis/Downloads/software/jetbrains-license-server-master-f2297b15242e90376600369c886d3baecbc6f6a8/bitbucket-pipelines.yml",
+		"/Users/louis/Downloads/software/jetbrains-license-server-master-f2297b15242e90376600369c886d3baecbc6f6a8/serve.go",
+		"/Users/louis/Downloads/software/jetbrains-license-server-master-f2297b15242e90376600369c886d3baecbc6f6a8/cmd/license/license.go",
+		"/Users/louis/Downloads/demo/src/main/java/com/example/demo/DemoApplication.java",
+		"/Users/louis/Downloads/StringUtils.java",
+		"/Users/louis/Documents/svn/ZBMP/metadata/2_src/1_trunk/WhereHows-0.0.1/metadata-etl/src/main/resources/jython/HiveLoad.py",
+		"/Users/louis/Downloads/ordermeta_test元数据.sql",
+		"/Users/louis/Documents/svn/ZBMP/metadata/1_doc/3_安装部署文档/postgres安装文档.md",
+		"/Users/louis/Downloads/application.properties",
+		"/Users/louis/Documents/ProgramFile/chromePageHike/manifest.json",
+		"/Users/louis/Desktop/622 202 1818 0040 56150 熊",
+		"/Users/louis/Desktop/test2 (2).keytab",
+		"/Users/louis/Documents/svn/ZBMP/passport/2_src/2_branches/V3.3.1/permission-management/permission-sql/src/main/resources/sql/V3.3/update-table-V3.3.2.sql",
+		"/Users/louis/Desktop/mysql/21.194_passport.sql",
+		"/Users/louis/Desktop/mysql/passport_v2_appactions.sql",
+		"/Users/louis/Desktop/mysql/passport_v2.sql",
+		"/Users/louis/Desktop/mysql/passport_v2_v_menuactions.sql",
+		"/Users/louis/Desktop/DataPermissionRoleRelation.java",
+		"/Library/Preferences/Parallels/vmdirectorylist.desktop.xml",
+		"/ise",
+		"/Users/louis/Documents/svn/ZBMP/passport/2_src/1_trunk/permission-management/permission-web/target/permission-web-3.3.1/META-INF/resources/WEB-INF/jsp/user/userlist.jsp",
+		"/Users/louis/Documents/svn/ZBMP/passport/2_src/1_trunk/permission-management/permission-web/target/permission-web-3.3.1 2/WEB-INF/jsp/public/login.jsp",
+		"/Users/louis/Desktop/ggggddddd.xml",
+		"/Users/louis/Downloads/result/part-00000-b6e9b5d4-4ff5-434c-9e9d-db34a5a82095.csv",
+		"/Users/louis/Documents/git/spark-2.1.1/pom.xml",
+		"/Users/louis/Desktop/test.html",
+		"/Users/louis/Documents/git/spark-2.3.0-ml-doc/doc/MLlib/002-基本的数据统计 - RDD-based API.md",
+		"/Users/louis/Desktop/index.html",
+		"/Users/louis/Documents/git/spark-2.1.1/data/mllib/sample_libsvm_data.txt",
+		"/Users/louis/Downloads/google∑Á∏Ò∫ÛÃ®œµÕ≥’˚Ã◊/assets/js/date-time/bootstrap-timepicker.min.js",
+		"/Users/louis/Downloads/examples/introduction/Hello.scala",
+		"/Users/louis/Documents/svn/ZBMP/passport/2_src/3_tag/1.0/2_exe/permission-sql-1.0/permission-management-all.sql",
+		"/Users/louis/Downloads/jetbrains-license-server-master-f2297b15242e90376600369c886d3baecbc6f6a8/cmd/license/license.go",
+		"/Users/louis/Documents/svn/ZBMP/metadata/2_src/1_trunk/metadata-management/metadata-web/pom.xml",
+		"/Users/louis/Desktop/连接字符串用户名.md",
+		"/Users/louis/Documents/svn/ZBMP/passport/2_src/1_trunk/sso-plugin/src/main/java/com/aotain/login/support/Myfilter.java",
+		"/Users/louis/Documents/AotainBI/pom.xml",
+		"/Users/louis/Documents/svn/ZBMP/passport/2_src/1_trunk/permission-management/permission-web/target/permission-web-1.0/config/application.properties",
+		"/Users/louis/Downloads/JetBrains-License-Server-master/src/main/resources/application.properties",
+		"/Users/louis/Desktop/echarts/echarts-2.2.7/src/util/mapData/rawData/encode.js",
+		"/Users/louis/Downloads/a.log",
+		"/Users/louis/Downloads/application(3).properties",
+		"/Users/louis/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/7f95534b6254042408053a9501be6590/Message/MessageTemp/f4a4531e4220adb500532d48b78d1427/File/Dockerfile",
+		"/Users/louis/Desktop/networkmanage_sys_dict.sql",
+		"/Users/louis/logs/network_web_server/threadlog.log",
+		"/Users/louis/Downloads/redis.conf",
+		"/Users/louis/Desktop/untitled folder 3/jTopo Demo.htm",
+		"/Users/louis/Documents/svn/ZBMP/taskmanagement/task_web/2_src/1_trunk/task-manage/jobs/task_189/system.properties",
+		"/Users/louis/Desktop/TScriptExecResult.java",
+		"/Users/louis/Downloads/gs-uploading-files-master/complete/src/main/java/hello/storage/StorageFileNotFoundException.java",
+		"/Users/louis/Downloads/gs-uploading-files-master/complete/src/main/java/hello/storage/StorageService.java",
+		"/Volumes/华为手机助手/关于华为手机助手说明.txt",
+		"/private/var/folders/gg/jwvtz3p90rnc90bbkdr3yf740000gn/T/com.microsoft.Excel/Repair Result to 网管_S6_Sprint计划0.xml",
+		"/Users/louis/.ssh/known_hosts",
+		"/Users/louis/.ssh/git.pub",
+		"/Users/louis/Documents/ZBMP/passport/2_src/1_trunk/permission-management/sso-plugin/src/main/java/com/aotain/login/support/Myfilter.java",
+		"/Users/louis/Documents/ZBMP/passport/2_src/1_trunk/permission-management/permission-web/src/main/java/com/aotain/passport/controller/login/LoginController.java",
+		"/Users/louis/Documents/ZBMP/metadata/2_src/1_trunk/metadata-management/metadata-web/src/main/resources/static/assets/js/event/dbConnect.js",
+		"/Users/louis/Desktop/untitled folder 2/tree-basic.html",
+		"/Users/louis/Desktop/untitled folder 2/bmap.min.js",
+		"/Users/louis/Desktop/untitled folder 2/world.js",
+		"/Users/louis/Desktop/untitled folder 2/china.js",
+		"/Users/louis/Desktop/untitled folder 2/dataTool.min.js",
+		"/Users/louis/Desktop/untitled folder 2/ecStat.min.js",
+		"/Users/louis/Desktop/untitled folder 2/echarts-all-3.js",
+		"/Users/louis/Desktop/untitled folder 2/jquery.js",
+		"/Users/louis/Desktop/untitled folder/jTopo Demo 自动布局_files/demo.js",
+		"/Users/louis/Desktop/SysChinaArea.java",
+		"/Users/louis/Documents/ProgramFile/apache-maven-3.5.2/conf/toolchains.xml",
+		"/Users/louis/Desktop/cityMap.js",
+		"/Users/louis/Documents/ZBMP/passport/2_src/1_trunk/permission-management/permission-web/src/main/java/com/aotain/passport/controller/login/IndexController.java",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/louis/Downloads/jetbrains-license-server-master-f2297b15242e90376600369c886d3baecbc6f6a8/cmd/license/go-build-all",
+		"/Users/louis/Desktop/t_chinaarea.sql",
+		"/Users/louis/Documents/svn/NMS/项目管理文档/Sprint0/3_设计文档/P201603004_html_MachineV3/NetworkTopology.html",
+		"/Users/louis/file",
+		"/Users/louis/Documents/svn/NMS/network-web/2_src/1_trunk/network-manage/network-web/src/main/java/com/aotain/network/monitor/controller/AlertController.java",
+		"/Users/louis/Desktop/THostRelation.java",
+		"/Users/louis/Desktop/T_host_relation.java",
+		"/private/var/folders/gg/jwvtz3p90rnc90bbkdr3yf740000gn/T/com.microsoft.Excel/Repair Result to 网管_S4_Sprint计划0.xml",
+		"/Users/louis/Desktop/AIzaSyDjD20NCsvfQ68srmrJvLrfbnvH1Zl6xjo",
+		"/Users/louis/Downloads/home.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "liner-core.be.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
